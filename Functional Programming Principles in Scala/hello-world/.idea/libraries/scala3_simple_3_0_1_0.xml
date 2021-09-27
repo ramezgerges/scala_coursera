@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="scala3-simple_3-0.1.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/scala-3.0.1/scala3-simple_3-0.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
